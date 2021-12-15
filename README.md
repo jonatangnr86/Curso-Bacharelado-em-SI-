@@ -1,2 +1,2 @@
 # Curso-Bacharelado-em-SI-
-Curso Sistemas de Informção
+Curso Sistemas de Informação
